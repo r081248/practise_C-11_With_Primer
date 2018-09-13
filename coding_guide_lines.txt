@@ -1,0 +1,11 @@
+=============================================================================
+
+Instructions for me while practising c++
+
+=============================================================================
+
+1) g++ -std++11
+
+2) Give binary file name format sourcecodefilename.out [added *.out in .gitignore]
+
+3) class members name should start with m_
